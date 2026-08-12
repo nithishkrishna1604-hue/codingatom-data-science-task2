@@ -7,7 +7,8 @@ non-technical reader: no code visible, no jargon left unexplained, just the
 three questions, the charts, the honest caveats, and a clear recommendation.
 
 **Live app:** https://codingatom-data-science-task2-fdsqpc9orrgltancbmzdna.streamlit.app/
-**Task 1 analysis repo:**https://github.com/nithishkrishna1604-hue/codingatom-data-science-task1
+
+**Task 1 analysis repo:** https://github.com/nithishkrishna1604-hue/codingatom-data-science-task1
 
 ## What it shows
 
