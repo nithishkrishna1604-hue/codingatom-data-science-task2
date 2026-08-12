@@ -6,9 +6,8 @@ A Streamlit dashboard built on top of the Task 1 analysis, aimed at a
 non-technical reader: no code visible, no jargon left unexplained, just the
 three questions, the charts, the honest caveats, and a clear recommendation.
 
-**Live app:** _add your deployed Streamlit Community Cloud link here after
-deploying_
-**Task 1 analysis repo:** _add your Task 1 repo link here_
+**Live app:** https://codingatom-data-science-task2-fdsqpc9orrgltancbmzdna.streamlit.app/
+**Task 1 analysis repo:**https://github.com/nithishkrishna1604-hue/codingatom-data-science-task1
 
 ## What it shows
 
